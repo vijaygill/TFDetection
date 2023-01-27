@@ -1,0 +1,4 @@
+__pycache__
+usage/train/learn/*
+usage/test/tfdet
+.ipynb_checkpoints
